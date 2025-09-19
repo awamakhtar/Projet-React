@@ -9,7 +9,7 @@ import Stats from "./Components/Stats";
 import ProductShop from "./Components/ProductShop";
 import Welcome from "./Components/Welcome";
 import Product from "./Components/Product";
-import Marque from "./Components/marque";
+import Marque from "./Components/Marque";
 import Events from "./Components/Events";
 import Testimonials from "./Components/Testimonials";
 import Volunteer from "./Components/Volunteer";
