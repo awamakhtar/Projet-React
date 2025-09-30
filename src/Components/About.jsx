@@ -1,27 +1,3 @@
-// function About() {
-//   return (
-//     <div className="flex flex-col md:flex-row justify-around p-8 text-start md:text-left  ">
-      
-//       <div className=" text-xl max-w-sm font-semibold">
-//         <h2 className="text-2xl font-bold ">
-//           We Work in More Than <br />
-//           <span className="text-orange-500 ">7k Countries</span> <br />
-//           To Strengthen Civic Space
-//         </h2>
-//       </div>
-
-//       <div className="max-w-md">
-//         <p className="text-gray-700 leading-relaxed ">
-//           Empowering communities worldwide by protecting human rights, 
-//           promoting free  expression, and supporting active citizen participation. 
-//           Our work helps ensure that civil society can thrive, speak freely, and shape their own future.
-//         </p>
-//       </div>
-//     </div>
-//   );
-// }
-
-// export default About;
 
 
 
